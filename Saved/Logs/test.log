@@ -699,3 +699,46 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.12-01.28.38:680][723]LogSavePackage: Moving 'D:/MINI/MINIGAME/Saved/department_Auto113C733ED458176CF97FDEFB31FD78F5F.tmp' to 'D:/MINI/MINIGAME/Saved/Autosaves/Game/dininghouse/department_Auto1.umap'
 [2019.06.12-01.28.38:681][723]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/dininghouse/department' took 0.244
 [2019.06.12-01.28.38:681][723]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.244
+[2019.06.12-01.37.26:964][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-02.14.03:946][205]LogTemp: Repeating last play command: 选中的视口
+[2019.06.12-02.14.03:971][205]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/dininghouse/department.department:PersistentLevel' has LevelScriptBlueprint '/Game/dininghouse/department.department:PersistentLevel.department' with GeneratedClass '/Game/dininghouse/department.department_C' with ClassGeneratedBy '/Game/dininghouse/department.department:PersistentLevel.department'
+[2019.06.12-02.14.03:971][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.12-02.14.03:977][205]PIE: New page: PIE会话: department (2019年6月12日 下午6:14:03)
+[2019.06.12-02.14.04:035][205]LogPlayLevel: Creating play world package: /Game/dininghouse/UEDPIE_0_department
+[2019.06.12-02.14.04:050][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014306s)
+[2019.06.12-02.14.04:051][205]LogAIModule: Creating AISystem for world department
+[2019.06.12-02.14.04:052][205]LogPlayLevel: PIE: World Init took: (0.001846s)
+[2019.06.12-02.14.04:052][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/dininghouse/department.department to /Game/dininghouse/UEDPIE_0_department.department (0.016845s)
+[2019.06.12-02.14.04:102][205]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.12-02.14.04:110][205]LogInit: FAudioDevice initialized.
+[2019.06.12-02.14.04:192][205]LogLoad: Game class is 'NewGameMode_C'
+[2019.06.12-02.14.04:225][205]LogWorld: Bringing World /Game/dininghouse/UEDPIE_0_department.department up for play (max tick rate 0) at 2019.06.12-10.14.04
+[2019.06.12-02.14.04:225][205]LogWorld: Bringing up level for play took: 0.000842
+[2019.06.12-02.14.04:331][205]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0019 seconds. Added 20 classes and 0 folders.
+[2019.06.12-02.14.04:341][205]PIE: /Game/dininghouse/UEDPIE_0_department的‘在编辑器中播放’的起始时间1.366
+[2019.06.12-02.14.04:363][205]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/dininghouse/department.department:PersistentLevel' has LevelScriptBlueprint '/Game/dininghouse/department.department:PersistentLevel.department' with GeneratedClass '/Game/dininghouse/department.department_C' with ClassGeneratedBy '/Game/dininghouse/department.department:PersistentLevel.department'
+[2019.06.12-02.14.37:506][159]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/dininghouse/department.department:PersistentLevel' has LevelScriptBlueprint '/Game/dininghouse/department.department:PersistentLevel.department' with GeneratedClass '/Game/dininghouse/department.department_C' with ClassGeneratedBy '/Game/dininghouse/department.department:PersistentLevel.department'
+[2019.06.12-02.14.37:533][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-02.14.37:568][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.12-02.14.37:568][159]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/dininghouse/department.department:PersistentLevel' has LevelScriptBlueprint '/Game/dininghouse/department.department:PersistentLevel.department' with GeneratedClass '/Game/dininghouse/department.department_C' with ClassGeneratedBy '/Game/dininghouse/department.department:PersistentLevel.department'
+[2019.06.12-02.14.37:593][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-02.14.37:609][160]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.06.12-02.16.40:352][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-02.16.54:585][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-02.17.21:706][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-02.17.29:964][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-02.18.44:170][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-02.25.03:441][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/dininghouse/department" FILE="D:/MINI/MINIGAME/Saved/Autosaves/Game/dininghouse/department_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.06.12-02.25.03:614][745]LogSavePackage: Moving 'D:/MINI/MINIGAME/Saved/department_Auto291DF65F84EAFB8031D46D6AC9F01E0F2.tmp' to 'D:/MINI/MINIGAME/Saved/Autosaves/Game/dininghouse/department_Auto2.umap'
+[2019.06.12-02.25.03:615][745]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/dininghouse/department' took 0.204
+[2019.06.12-02.25.03:615][745]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.204
+[2019.06.12-04.24.02:247][493]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2019.06.12-04.30.54:706][622]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{31622e40-e3a9-4bb8-9999-64ca68aee0eb} was removed. Shutting down audio device.
+[2019.06.12-04.30.54:706][622]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{31622e40-e3a9-4bb8-9999-64ca68aee0eb} was removed. Shutting down audio device.
+[2019.06.12-04.30.56:932][622]LogSlate: Window '保存内容' being destroyed
+[2019.06.12-04.30.56:947][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/dininghouse/department" FILE="D:/MINI/MINIGAME/Content/dininghouse/department.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.12-04.30.57:140][622]LogSavePackage: Moving 'D:/MINI/MINIGAME/Saved/department1DD063C54AC95A5D41B928926D4A015A.tmp' to 'D:/MINI/MINIGAME/Content/dininghouse/department.umap'
+[2019.06.12-04.30.57:154][622]LogFileHelpers: Saving map 'department' took 0.208
+[2019.06.12-04.30.57:187][622]LogSlate: Window 'test - 虚幻编辑器' being destroyed
+[2019.06.12-04.30.57:258][622]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2019.06.12-04.30.57:258][622]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
